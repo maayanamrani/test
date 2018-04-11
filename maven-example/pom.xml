@@ -6,13 +6,19 @@
     <version>4.3-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Simple Multi Modules Build</name>
-    
-   
-        <modules>
+    <profiles>
+     <profile>
+      <id>firstProfile</id>
+      <activation>
+       <activeByDefault>true</activeByDefault>
+      </activation>
+       <modules>
             <module>multi1</module>
             <module>multi2</module>
             <module>multi3</module>
        </modules>
+     </profile>
+    </profiles>
 
     
 
