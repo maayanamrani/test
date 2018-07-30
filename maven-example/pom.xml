@@ -31,7 +31,7 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>3.8.1</version>
-            <scope>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasfsadfsadfasdfasdfasfasdfsafsfasdafadmdsakadslkdsasadmkladsvmklamklamklaklmkmlasklmadsklmadsmkldasmkladsvmklvadsmkldvasmkldsamvklsadmvlaskdmvlasdkmvalsdkvmasldkvmasldvkamsdvpoqerg[pdslfkbsdkf,vlamdfklvmasdlkcmadklfmvaldkfvlkadmfvlkmadfvmaldfkmvladkfmvladfvdafadmdsakadslkdsasadmkladsvmklamklamklaklmkmlasklmadsklmadsmkldasmkladsvmklvadsmkldvasmkldsamvklsadmvlaskdmvlasdkmvalsdkvmasldkvmasldvkamsdvpoqerg[pdslfkbsdkf,vlamdfklvmasdlkcmadklfmvaldkfvlkadmfvlkmadfvmaldfkmvladkfmvladfvdafadmdsakadslkdsasadmkladsvmklamklamklaklmkmlasklmadsklmadsmkldasmkladsvmklvadsmkldvasmkldsamvklsadmvlaskdmvlasdkmvalsdkvmasldkvmasldvkamsdvpoqerg[pdslfkbsdkf,vlamdfklvmasdlkcmadklfmvaldkfvlkadmfvlkmadfvmaldfkmvladkfmvladfvdafadmdsakadslkdsasadmkladsvmklamklamklaklmkmlasklmadsklmadsmkldasmkladsvmklvadsmkldvasmkldsamvklsadmvlaskdmvlasdkmvalsdkvmasldkvmasldvkamsdvpoqerg[pdslfkbsdkf,vlamdfklvmasdlkcmadklfmvaldkfvlkadmfvlkmadfvmaldfkmvladkfmvladfv</scope>
+            <scope>test</scope>
         </dependency>
     </dependencies>
 
