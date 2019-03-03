@@ -28,6 +28,11 @@
 
     <dependencies>
         <dependency>
+            <groupId>org.jfrog.test</groupId>
+            <artifactId>multi</artifactId>
+            <version>4.3-SNAPSHOT</version>
+        </dependency>
+        <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>3.8.1</version>
